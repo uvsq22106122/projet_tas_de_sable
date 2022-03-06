@@ -1,0 +1,6 @@
+git add *.c
+git add LICENSE
+git commit -m 'initial project version'
+
+git config -global user.name "Asmaa Iliassy"
+git config -global user.email asmaapro1@gmail.com
